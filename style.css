@@ -1,0 +1,23 @@
+.div-black{
+    background-color: black;
+    border: 1px solid black;
+    min-height: 50px;
+    min-width: 50px;
+}
+
+.div-white{
+    border: 1px solid black;
+    min-height: 50px;
+    min-width: 50px;
+}
+
+#row{
+   display: flex;
+   justify-content: center;
+    
+}
+
+#main-div{
+margin-top: 10%;
+    margin-bottom: 10%;
+}
