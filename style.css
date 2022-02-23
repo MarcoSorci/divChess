@@ -1,11 +1,12 @@
 .div-black{
-    background-color: #55829c;
+    background-image: url(./download.jfif);
+    background-size: contain;
 
 }
 
 .div-white{
-    background-color: #99b9cc;
-
+    background-color: white;
+    border: 1px solid black;
 }
 
 #row{
